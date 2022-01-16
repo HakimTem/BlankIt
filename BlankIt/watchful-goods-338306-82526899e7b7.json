@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "watchful-goods-338306",
+  "private_key_id": "82526899e7b79c7b1bf19ef2cb80035a5fb3f05f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZzaf1A8JisqnS\nEqUTU6i52iHvASphvckSArMXvggwi4uIX3ZD5/ewco0or7S54kL6aktIqjxyvIJD\n9UG1MZvF47JjtPPf3flvuq27mHc0E48nqqIDGcz/j70a18/qb6RSLIxrEsLMViad\ns7xzEvP+2a6ZoE78mtq51VzJG6MaOcNIlmHZHzKSKwu1mTMtTQts8uFtPfmrlKNh\nhp6d53rDoXQAI3wzN1jO2gtxSVA0XiZa+k40GUr286Xz2c7DFjBex2MP6bTagia+\nFB3bbMlgUZiZvabtJqxSoXzHllTIA1mx6itCM/OTGLq/1ak0Jxv8pA4dVc+UMLlg\natJETxjfAgMBAAECggEANvMVc0HNFMMdTisQJDgK+5+V6RSjBjmumUsyniRsO5/X\nkbj9gWRih31dtnAUIydV467PR95ea2WzKsF4oNpg+5IOvXW8fbqKMCNjh7cAu6/T\nQQpDCNWSeqnpl6oMJAeQDzXQUz7oLuYGtOgux3Q5jU9LhKKUJcbTp3o1xLoliywT\nKPJICMae3lg4KlMJK2T4tE3rc9SDTbeFSoqFBas3C4yxZfg0lAlwraUChU4GCktM\nIu4KwfL0j7M4YdFSwglPMXWXAD4xrlfpPEkJ1SnTHHLScFcaNLaP7udjTmidEDtA\nTZ0nt65M864wL1g03Qiw9pY1kzd1wc4T5Aen/oXg/QKBgQDK6vTBt5YPTbfog0Vj\nETQU2m30zFfMlTFUA04tYXsjtM3gA7IRhDTuM77AGO5nNCrDWbWZmE1R+cz6nP0p\nVnt0hDByzwFQFWZT7KIwWCuEBvQ6vLhHBEzvmfOmagIWS0k6W+SMjHr9VsQS8AJ3\nw22JNkIZqGb1uhJ7zTG3BMdniwKBgQDCCZeqV5gcBj5E2V7/c75YmobOunkEALFJ\nc9Dlm+mzNm4bFTS/LgL183qs6rK5Mk4G1uN6bTZz7YCVqzz2jpng5K2TluFi2zAL\nQRJvKKG9HEqfYUVZ1Sat6v8aXjbOvn+4pqrJgqs3lbRGZn5rNE0G0EDsYLd+2FJG\noHO0JlXefQKBgD5SKxnT6KKKnBEtQAJNJlHBREQK/mw25g+HdFs7tTYiMZi7idUX\nZapC+jLFdXL88qVMyBmETTsAHZRa4uXvSbtfXgHk0eJmsCbWZnmymqrR9/CSRYaK\nK5brEYnqxPlT5gmmb2s7OgrUuyOV0yw1OU8K+wImVnjhzQt42ev768JBAoGAXRFQ\nx4lgEgEEmO1R3WDcqY7knf9e0AatAjgkuBzCSQ0QXrkbJZ+iF+oCqzGfK6jvN+SW\nE0CS36PJCwCpKvFW6UGF58Z0sH/FWYCKoPpyKUyKlkuHggD0nnKajUEnNJ62kBCQ\n1jpweSa64xGCDVV2pI/6s+Xn3VVQkUOge4XvpdkCgYEAlybHCx5+5LVNlSf5uWAE\nSxx2vZaLXLtowaUNVI3eXR7W2GxEZZMxt0qBv3HumHuRRmkGFowyjMq3R6mhH7wX\nQgoPDhddy5A44rZNol2NqSf82fkD4aDrwD1jtrMYR7OipPlolEFSNBqhKVP3jjbE\nvrKFFkV/tdt1V8gROF+mHck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ed-113@watchful-goods-338306.iam.gserviceaccount.com",
+  "client_id": "114846963814708859956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ed-113%40watchful-goods-338306.iam.gserviceaccount.com"
+}
